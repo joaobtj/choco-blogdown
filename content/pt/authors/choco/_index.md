@@ -23,7 +23,7 @@ social:
   icon: instagram
   icon_pack: fab
   label: Siga no Instagram
-  link: https://instagram.com/chocotone
+  link: https://instagram.com/
 superuser: true
 title: Choco 
 ---
