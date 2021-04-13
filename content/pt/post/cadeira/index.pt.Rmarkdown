@@ -1,0 +1,44 @@
+---
+title: Deitado nas cadeiras
+subtitle: 
+
+# Summary for listings and search engines
+summary: 
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: "2021-04-02"
+
+# Date updated
+lastmod: "2021-04-02"
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Cadeiras'
+  focal_point: smart
+  placement: 2
+  preview_only: false
+
+authors:
+- choco
+
+tags:
+- gato
+- cadeira
+
+categories:
+- blog
+---
+
+Preciso de duas cadeiras para deitar.
+
+

@@ -1,0 +1,31 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+pt:
+  languageCode: pt
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/pt
+
+# Uncomment the lines below to configure your website in a second language.
+en:
+ languageCode: en
+ contentDir: content/en
+ title: Choco
+ params:
+   description: Site description in English...
+ menu:
+   main:
+    - name: About
+      url: '#about'
+      weight: 10
+    - name: Skill
+      url: '#skill'
+      weight: 15
+    - name: Posts
+      url: '#post'
+      weight: 20
+    - name: Tags
+      url: '#tag'
+      weight: 25
